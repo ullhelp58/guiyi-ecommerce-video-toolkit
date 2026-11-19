@@ -1,5 +1,7 @@
 # GUIYI WORKS | Ecommerce Video Creation Toolkit
 
+**[▶ Watch the original and Spanish-subtitled result side by side (30 seconds)](https://ullhelp58.github.io/guiyi-ecommerce-video-toolkit/)**
+
 ![GUIYI WORKS · 皈一造物](%E7%9A%88%E4%B8%80%E9%80%A0%E7%89%A9_%E5%93%81%E7%89%8C%E8%A7%86%E8%A7%89%E6%96%B9%E5%90%91%E7%A8%BF_v01.png)
 
 > This repository presents an ecommerce video creation workflow, case study and service inquiries. Core workflows, templates and code are not public; a complete open-source capability package is not included.
@@ -23,7 +25,7 @@ Turn reference videos and product information into product storyboards and plans
 
 ## From product inputs to storyboards
 
-The selected case contains four existing assets: a reference video, one product image and two storyboard sheets. The storyboards are historical intermediate results accepted with observations. The case demonstrates storyboard development, not an accepted final film or measured sales performance. Existing case assets are for demonstration and learning; contact the author about commercial reuse.
+Compare the reference and the Spanish-subtitled result, then explore the product photo and two storyboard sheets. The case materials illustrate the creative process. Contact the author about commercial reuse.
 
 ![Product reference](product_01.png)
 
@@ -45,7 +47,7 @@ Beginners can ask about preparing inputs and using each stage. Experienced users
 
 ## Use by paying customers
 
-Paying customers may receive agreed workflow files for use in their own Codex environment and use the workflow to create commercial content for themselves or their clients. Workflow files may not be resold, publicly released or given to others outside the agreed customer. The exact files, usage and support scope are agreed separately. This does not grant commercial rights to the four existing case assets.
+Paying customers may receive agreed workflow files for use in their own Codex environment and use the workflow to create commercial content for themselves or their clients. Workflow files may not be resold, publicly released or given to others outside the agreed customer. The exact files, usage and support scope are agreed separately. This does not grant commercial rights to the existing case assets.
 
 ## Current scope
 
